@@ -50,4 +50,4 @@ We may update this policy from time to time. Updates will be posted on this page
 If you have questions about this Privacy Policy, you can contact:
 
 **Phillip Leroy**  
-**Email:** phillip.leroy@gmail.com
+phillip dot leroy at gmail dot com

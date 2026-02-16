@@ -27,14 +27,12 @@ Built for **Auxiliary**, **Regular**, and **Special Pioneers** — with automati
   <img src="screenshots/dark-theme.png" width="200" alt="Dark theme" />
   <img src="screenshots/settings-menu.png" width="200" alt="Settings menu" />
   <img src="screenshots/report-credit-hours.png" width="200" alt="Report and Credit Hours" />
-  <img src="screenshots/edit-record.png" width="200" alt="Edit record" />
 </p>
 
 <p align="center">
   <img src="screenshots/purple-theme.png" width="200" alt="Purple theme" />
   <img src="screenshots/pink-theme.png" width="200" alt="Pink theme" />
   <img src="screenshots/magenta-theme.png" width="200" alt="Magenta theme" />
-  <img src="screenshots/blue-theme.png" width="200" alt="Blue theme" />
 </p>
 
 ---

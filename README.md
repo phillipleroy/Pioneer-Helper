@@ -31,7 +31,6 @@ Built for **Auxiliary**, **Regular**, and **Special Pioneers** — with automati
 </p>
 
 <p align="center">
-  <img src="screenshots/guide.png" width="200" alt="Guide" />
   <img src="screenshots/purple-theme.png" width="200" alt="Purple theme" />
   <img src="screenshots/pink-theme.png" width="200" alt="Pink theme" />
   <img src="screenshots/magenta-theme.png" width="200" alt="Magenta theme" />

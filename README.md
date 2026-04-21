@@ -1,4 +1,10 @@
-# Pioneer Helper
+<table>
+  <tr>
+    <td><img src="screenshots/app-icon.png" alt="Pioneer Helper icon" width="64" /></td>
+    <td><h1>Pioneer Helper</h1></td>
+  </tr>
+</table>
+
 
 A clean, focused iOS app for pioneers to track service hours, Bible studies, and share monthly reports.
 Built for **Auxiliary**, **Regular**, and **Special Pioneers** — with automatic carryover, service year progress, and credit hours tracking.

@@ -1,8 +1,16 @@
 # Pioneer Helper
 
 A clean, focused iOS app for pioneers to track service hours, Bible studies, and share monthly reports.
-
 Built for **Auxiliary**, **Regular**, and **Special Pioneers** — with automatic carryover, service year progress, and credit hours tracking.
+---
+
+## Support
+
+If you enjoy the app, consider supporting development:
+
+[![Buy me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pleroy)
+
+---
 
 ---
 
@@ -54,14 +62,6 @@ Built for **Auxiliary**, **Regular**, and **Special Pioneers** — with automati
 ## Privacy
 
 Pioneer Helper stores all data locally on your device. No accounts, no servers, no tracking. Your data stays yours.
-
----
-
-## Support
-
-If you enjoy the app, consider supporting development:
-
-[![Buy me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pleroy)
 
 ---
 
